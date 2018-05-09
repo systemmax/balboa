@@ -46,7 +46,7 @@
                 Get the Balboa code here!
             </td>
             <td>
-                <a href="https://github.com/kawolfe27/balboa" target="_blank">Balboa Code</a>
+                <a href="https://github.com/iiisalesengineers/balboa" target="_blank">Balboa Code</a>
             </td>
         </tr>
     </table>
