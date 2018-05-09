@@ -1,0 +1,21 @@
+{"bootstrapThemes":[
+  {"description":"Default","url":"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"},
+  {"description":"Balboa","url":"/css/balboa.css"},
+  {"description":"Innovative","url":"/css/innovative.css"},
+  {"description":"Cerulean","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/cerulean/bootstrap.min.css"},
+  {"description":"Cosmo","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/cosmo/bootstrap.min.css"},
+  {"description":"Cyborg","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/cyborg/bootstrap.min.css"},
+  {"description":"Darkly","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/darkly/bootstrap.min.css"},
+  {"description":"Flatly","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/flatly/bootstrap.min.css"},
+  {"description":"Journal","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/journal/bootstrap.min.css"},
+  {"description":"Lumen","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/lumen/bootstrap.min.css"},
+  {"description":"Paper","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/paper/bootstrap.min.css"},
+  {"description":"Readable","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/readable/bootstrap.min.css"},
+  {"description":"Sandstone","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/sandstone/bootstrap.min.css"},
+  {"description":"Simplex","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/simplex/bootstrap.min.css"},
+  {"description":"Slate","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/slate/bootstrap.min.css"},
+  {"description":"Spacelab","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/spacelab/bootstrap.min.css"},
+  {"description":"Superhero","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css"},
+  {"description":"United","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/united/bootstrap.min.css"},
+  {"description":"Yeti","url":"https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/yeti/bootstrap.min.css"}
+]}

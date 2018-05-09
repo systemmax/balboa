@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="905260dc-1cd9-4902-8c53-fe73b930576f" name="Michael's Showcase" url="http://iiidiscovery.com/michael/api/showcase">
+        <fileTransfer host="iiidiscovery.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c9a46222-7c3a-405d-8565-ca6673a8bcc2" name="Caroline's Balboa" url="http://iiidiscovery.com/devue/balboa">
+        <fileTransfer host="iiidiscovery.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+body {
+    background: url('../images/bluebackground2.jpg') no-repeat center center fixed #1226b8;
+    background-size: cover;
+}
+
+.my-modal-header {
+    background: url('../images/bluebackground2.jpg') #3F0000;
+    color: white;
+}
+
+.my-modal-footer {
+    background: url('../images/bluebackground2.jpg') #3F0000;
+    color: white;
+}
+
+.my-modal-body {
+    background-color: darkblue;
+    color: white;
+}

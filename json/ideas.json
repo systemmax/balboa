@@ -1,0 +1,1 @@
+["Allow the user to upload a logo.","Make the logo be no more than the height of the navbar","Handle it elegantly if they leave the JSON field blank.","Test renewals from both the bib detail and account list pages.","If you cancel a hold, it goes back to index.php.  It should go back to the referrer (bibdetail)","changing pickup location - doesn't"]
